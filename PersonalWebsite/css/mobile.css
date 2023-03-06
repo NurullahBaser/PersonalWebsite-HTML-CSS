@@ -3,10 +3,8 @@
     padding-top: 0.75rem;
     padding-bottom: 0.75rem;
     height: 90px;
-    /* overflow: hidden; eğer taşma olursa bunu kullanıp engelleyebilirsin. biz height arttırarak düzelttik.*/ 
 }
 
-/* BİZ EKLEDİK */
 #navbar li {
     overflow: hidden;
     text-overflow: ellipsis;
